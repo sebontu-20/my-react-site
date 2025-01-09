@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'; // Use HashRouter
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
@@ -7,7 +7,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Skills from './components/Skills';
-import ScrollToTop from './components/ScrollToTop'; 
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
@@ -16,16 +16,13 @@ function App() {
         <Navbar />
         <ScrollToTop /> {/* Scroll to top on route change */}
 
-        {/* to display Hero only on the Home page */}
+        {/* Consolidated Routes */}
         <Routes>
           <Route path="/" element={<Hero />} /> {/* Hero only on Home page */}
-        </Routes>
-
-        <Routes>
           <Route path="/about" element={<About />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/skills" element={<Skills />}/>
+          <Route path="/skills" element={<Skills />} />
         </Routes>
 
         <Footer />

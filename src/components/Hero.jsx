@@ -15,7 +15,7 @@ function Hero() {
         </div>
         <p className="text-lg mb-6 animate__animated animate__fadeIn">une développeuse web passionnée par tech...</p>
         <a 
-          href="projects" 
+          href="#projects" 
           className="bg-cyan-500 text-white py-2 px-6 rounded-full hover:bg-cyan-400 hover:scale-105 transition-all duration-300"
         >
           Découvrez Mes Projets
