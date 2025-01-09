@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/my-react-site/static/css/main.393b4e32.css",
-    "main.js": "/my-react-site/static/js/main.7424b29b.js",
+    "main.js": "/my-react-site/static/js/main.44a33a2f.js",
     "static/js/488.21a3b654.chunk.js": "/my-react-site/static/js/488.21a3b654.chunk.js",
     "static/media/Captureaubois.PNG": "/my-react-site/static/media/Captureaubois.8e51447534dd195b180d.PNG",
     "static/media/wp.png": "/my-react-site/static/media/wp.430b9ee40737c194ccfc.png",
-    "static/media/sebontu-cv.pdf": "/my-react-site/static/media/sebontu-cv.8e2576d7a7b083674ae7.pdf",
+    "static/media/sebontu-cv.pdf": "/my-react-site/static/media/sebontu-cv.f2db5f0ad358234cfeb3.pdf",
     "static/media/lor.PNG": "/my-react-site/static/media/lor.1d5114dd72f1a6e7fe46.PNG",
     "static/media/Untitled image.jpeg": "/my-react-site/static/media/Untitled image.98ee734757a6d03e3cb4.jpeg",
     "static/media/bu.png": "/my-react-site/static/media/bu.1ca2f7be40eda945df02.png",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/my-react-site/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my-react-site/index.html",
     "main.393b4e32.css.map": "/my-react-site/static/css/main.393b4e32.css.map",
-    "main.7424b29b.js.map": "/my-react-site/static/js/main.7424b29b.js.map",
+    "main.44a33a2f.js.map": "/my-react-site/static/js/main.44a33a2f.js.map",
     "488.21a3b654.chunk.js.map": "/my-react-site/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.393b4e32.css",
-    "static/js/main.7424b29b.js"
+    "static/js/main.44a33a2f.js"
   ]
 }
