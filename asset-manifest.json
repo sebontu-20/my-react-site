@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/git%20/static/css/main.2ebe275b.css",
+    "main.js": "/git%20/static/js/main.7f8c6ad7.js",
+    "static/js/488.21a3b654.chunk.js": "/git%20/static/js/488.21a3b654.chunk.js",
+    "static/media/Captureaubois.PNG": "/git%20/static/media/Captureaubois.8e51447534dd195b180d.PNG",
+    "static/media/wp.png": "/git%20/static/media/wp.430b9ee40737c194ccfc.png",
+    "static/media/sebontu-cv.pdf": "/git%20/static/media/sebontu-cv.aeb9f4ce3befb6158169.pdf",
+    "static/media/lor.PNG": "/git%20/static/media/lor.1d5114dd72f1a6e7fe46.PNG",
+    "static/media/Untitled image.jpeg": "/git%20/static/media/Untitled image.98ee734757a6d03e3cb4.jpeg",
+    "static/media/bu.png": "/git%20/static/media/bu.1ca2f7be40eda945df02.png",
+    "static/media/logo-seb.png": "/git%20/static/media/logo-seb.d4312203cac4518a25ce.png",
+    "static/media/slick.svg": "/git%20/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/git%20/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/git%20/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/git%20/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/git%20/index.html",
+    "main.2ebe275b.css.map": "/git%20/static/css/main.2ebe275b.css.map",
+    "main.7f8c6ad7.js.map": "/git%20/static/js/main.7f8c6ad7.js.map",
+    "488.21a3b654.chunk.js.map": "/git%20/static/js/488.21a3b654.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ebe275b.css",
+    "static/js/main.7f8c6ad7.js"
+  ]
+}
