@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.58e13b8f.css",
-    "main.js": "/my-portfolio/static/js/main.a1fc0d54.js",
-    "static/js/488.21a3b654.chunk.js": "/my-portfolio/static/js/488.21a3b654.chunk.js",
-    "static/media/Captureaubois.PNG": "/my-portfolio/static/media/Captureaubois.8e51447534dd195b180d.PNG",
-    "static/media/wp.png": "/my-portfolio/static/media/wp.430b9ee40737c194ccfc.png",
-    "static/media/sebontu-cv.pdf": "/my-portfolio/static/media/sebontu-cv.aeb9f4ce3befb6158169.pdf",
-    "static/media/lor.PNG": "/my-portfolio/static/media/lor.1d5114dd72f1a6e7fe46.PNG",
-    "static/media/Untitled image.jpeg": "/my-portfolio/static/media/Untitled image.98ee734757a6d03e3cb4.jpeg",
-    "static/media/bu.png": "/my-portfolio/static/media/bu.1ca2f7be40eda945df02.png",
-    "static/media/logo-seb.png": "/my-portfolio/static/media/logo-seb.d4312203cac4518a25ce.png",
-    "static/media/slick.svg": "/my-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/my-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/my-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/my-portfolio/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/my-portfolio/index.html",
-    "main.58e13b8f.css.map": "/my-portfolio/static/css/main.58e13b8f.css.map",
-    "main.a1fc0d54.js.map": "/my-portfolio/static/js/main.a1fc0d54.js.map",
-    "488.21a3b654.chunk.js.map": "/my-portfolio/static/js/488.21a3b654.chunk.js.map"
+    "main.css": "/my-react-site/static/css/main.393b4e32.css",
+    "main.js": "/my-react-site/static/js/main.dad73c6d.js",
+    "static/js/488.21a3b654.chunk.js": "/my-react-site/static/js/488.21a3b654.chunk.js",
+    "static/media/Captureaubois.PNG": "/my-react-site/static/media/Captureaubois.8e51447534dd195b180d.PNG",
+    "static/media/wp.png": "/my-react-site/static/media/wp.430b9ee40737c194ccfc.png",
+    "static/media/sebontu-cv.pdf": "/my-react-site/static/media/sebontu-cv.aeb9f4ce3befb6158169.pdf",
+    "static/media/lor.PNG": "/my-react-site/static/media/lor.1d5114dd72f1a6e7fe46.PNG",
+    "static/media/Untitled image.jpeg": "/my-react-site/static/media/Untitled image.98ee734757a6d03e3cb4.jpeg",
+    "static/media/bu.png": "/my-react-site/static/media/bu.1ca2f7be40eda945df02.png",
+    "static/media/logo-seb.png": "/my-react-site/static/media/logo-seb.d4312203cac4518a25ce.png",
+    "static/media/slick.svg": "/my-react-site/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/my-react-site/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/my-react-site/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/my-react-site/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/my-react-site/index.html",
+    "main.393b4e32.css.map": "/my-react-site/static/css/main.393b4e32.css.map",
+    "main.dad73c6d.js.map": "/my-react-site/static/js/main.dad73c6d.js.map",
+    "488.21a3b654.chunk.js.map": "/my-react-site/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58e13b8f.css",
-    "static/js/main.a1fc0d54.js"
+    "static/css/main.393b4e32.css",
+    "static/js/main.dad73c6d.js"
   ]
 }
