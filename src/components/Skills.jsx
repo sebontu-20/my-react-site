@@ -14,7 +14,6 @@ function Skills() {
             <li>-CSS3 (Flexbox, Grid, TailwindCSS)</li>
             <li>-JavaScript (ES6+)</li>
             <li>-React.js</li>
-            <li>-Réaliser une interface utilisateur web dynamique</li> 
             <li>-Maquetter une application</li> 
             <li>-Réaliser une interface utilisateur web statique et adaptable</li> 
           </ul>
@@ -27,6 +26,7 @@ function Skills() {
             <li>-Node.js</li>
             <li>-MySQL</li>
             <li>-PHP</li>
+            <li>-Réaliser une interface utilisateur web dynamique</li> 
             <li>-Développer une interface utilisateur avec une solution de- gestion de contenu e-commerce</li> 
             <li>-Développement d'API</li>
           </ul>
