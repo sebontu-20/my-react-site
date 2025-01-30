@@ -4,11 +4,11 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
 // Import images from the assets folder
-import buImage from '../assets/buzN.jpeg';
+import buImage from '../assets/bu.png';
 import wpImage from '../assets/wp.png';
 import captureauboisImage from '../assets/Captureaubois.PNG';
 import lorImage from '../assets/lor.PNG';
-import untitledImage from '../assets/bagbN.jpeg';
+import untitledImage from '../assets/Untitled image.jpeg';
 
 function Projects() {
   const projects = [

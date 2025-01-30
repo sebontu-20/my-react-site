@@ -16,6 +16,7 @@ function Skills() {
             <li>-React.js</li>
             <li>-Maquetter une application</li> 
             <li>-Réaliser une interface utilisateur web statique et adaptable</li> 
+            <li>Développer une interface utilisateur avec une solution de gestion de contenu e-commerce/WordPress/</li>
           </ul>
         </div>
 
@@ -25,8 +26,8 @@ function Skills() {
           <ul className="text-gray-300">
             <li>-Node.js</li>
             <li>-MySQL</li>
-            <li>-PHP</li>
-            <li>-Développer une interface utilisateur avec une solution de- gestion de contenu e-commerce</li> 
+            <li>-PHP/Symfony</li>
+            <li>-Python/Flask</li>
             <li>-Développement d'API</li>
           </ul>
         </div>
