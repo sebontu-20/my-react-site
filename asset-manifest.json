@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-react-site/static/css/main.6e0a81b2.css",
-    "main.js": "/my-react-site/static/js/main.08d21367.js",
+    "main.js": "/my-react-site/static/js/main.5055af93.js",
     "static/js/488.21a3b654.chunk.js": "/my-react-site/static/js/488.21a3b654.chunk.js",
-    "static/media/bagbN.jpeg": "/my-react-site/static/media/bagbN.be2b7766d7f66da6bbd5.jpeg",
     "static/media/Captureaubois.PNG": "/my-react-site/static/media/Captureaubois.8e51447534dd195b180d.PNG",
     "static/media/wp.png": "/my-react-site/static/media/wp.430b9ee40737c194ccfc.png",
-    "static/media/buzN.jpeg": "/my-react-site/static/media/buzN.a01e9b090c075a01b039.jpeg",
     "static/media/sebontu-cv.pdf": "/my-react-site/static/media/sebontu-cv.f2db5f0ad358234cfeb3.pdf",
     "static/media/lor.PNG": "/my-react-site/static/media/lor.1d5114dd72f1a6e7fe46.PNG",
+    "static/media/Untitled image.jpeg": "/my-react-site/static/media/Untitled image.98ee734757a6d03e3cb4.jpeg",
+    "static/media/bu.png": "/my-react-site/static/media/bu.1ca2f7be40eda945df02.png",
     "static/media/logo-seb.png": "/my-react-site/static/media/logo-seb.d4312203cac4518a25ce.png",
     "static/media/slick.svg": "/my-react-site/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/my-react-site/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/my-react-site/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my-react-site/index.html",
     "main.6e0a81b2.css.map": "/my-react-site/static/css/main.6e0a81b2.css.map",
-    "main.08d21367.js.map": "/my-react-site/static/js/main.08d21367.js.map",
+    "main.5055af93.js.map": "/my-react-site/static/js/main.5055af93.js.map",
     "488.21a3b654.chunk.js.map": "/my-react-site/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e0a81b2.css",
-    "static/js/main.08d21367.js"
+    "static/js/main.5055af93.js"
   ]
 }
