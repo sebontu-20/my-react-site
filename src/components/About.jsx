@@ -1,6 +1,6 @@
 import React from 'react';
 import profilePic from '../assets/logo-seb.png'; 
-import cvFile from '../assets/sebontu-cv.pdf'; 
+import cvFile from '../assets/cv-sebontuN.pdf'; 
 
 function About() {
   return (
